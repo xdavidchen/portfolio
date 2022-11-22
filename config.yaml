@@ -56,18 +56,18 @@ permalinks:
 
 menu:
   main:
-    - name: work
-      url: /work/
-      weight: 1
     - name: "#ShotoniPhone"
       url: /tags/shotoniphone/
-      weight: 2  
-    - name: people
-      url: /tags/people/
-      weight: 3
-    - name: nature
-      url: /tags/nature/
-      weight: 4
+      weight: 1 
+    #- name: work
+      #url: /work/
+      #weight: 2
+    #- name: people
+      #url: /tags/people/
+      #weight: 3
+    #- name: nature
+      #url: /tags/nature/
+      #weight: 4
     - name: archive
       url: /tags/archive/
       weight: 5

@@ -33,7 +33,7 @@
 }
 
 .content blockquote p {
-    color: var(--white);
+    color: var(--dark);
 }
 
 .content pre code {
