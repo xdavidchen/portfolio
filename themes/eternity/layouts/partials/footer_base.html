@@ -4,7 +4,7 @@
             {{ . }} <br>
         {{ end }}
         {{ with .Site.Params.Author }}
-            © {{ dateFormat "2006" now }}, {{ . }}.
+            © {{ dateFormat "2006" now }} {{ . }}
         {{ end }}
     </p>
     {{ if not .Site.Params.DontShowSource}}

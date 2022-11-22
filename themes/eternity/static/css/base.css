@@ -1,6 +1,6 @@
 html {
     height: 100%;
-    background-color: var(--main);
+    background-color: var(--dark);
 }
 
 body {
@@ -55,7 +55,8 @@ h6 {
 }
 
 .footer {
-    font-size: medium;
+    font-size: 14px;
+    font-weight: bold;
     padding: 3rem 1.5rem 2rem;
 }
 
@@ -78,7 +79,7 @@ a.active {
 
 a:hover,
 a.active {
-    border-bottom: 5px solid var(--main);
+    border-bottom: 2px solid var(--main);
 }
 
 .a-clean:hover,
