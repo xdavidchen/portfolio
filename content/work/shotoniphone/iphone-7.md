@@ -1,7 +1,7 @@
 ---
 weight: 7
 images:
-- /images/nyc-chimney-2.jpg
+- https://xdavidchen.com/zh-tw/p/%E7%B4%90%E7%B4%84%E5%A4%A7%E7%85%99%E5%9B%AA/chimney-2_hu7df106570a0e186aba7d8961d6bb0b4b_8734691_1024x0_resize_q75_box.jpg
 title: iphone 7
 date: 2022-11-23
 tags:
