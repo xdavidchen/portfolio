@@ -23,6 +23,9 @@ params:
         people: 1
   socials:
     # todo: change these links.
+    - icon: 'fa-solid fa-bolt'
+      url: https://xdavidchen.com/
+      landing: true
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:david@xdavidchen.com'
       landing: true
