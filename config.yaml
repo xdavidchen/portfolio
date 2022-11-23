@@ -57,7 +57,7 @@ permalinks:
 menu:
   main:
     - name: "#ShotoniPhone"
-      url: /tags/shotoniphone/
+      url: "/tags/shotoniphone/"
       weight: 1 
     #- name: work
       #url: /work/
