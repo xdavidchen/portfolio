@@ -1,7 +1,7 @@
 ---
 weight: 6
 images:
-- /images/nyc-chimney-1.jpg
+- https://xdavidchen.com/zh-tw/p/%E7%B4%90%E7%B4%84%E5%A4%A7%E7%85%99%E5%9B%AA/chimney-1_hub873f445ad48b7560f07448afcfbf6e0_5292440_1600x0_resize_q75_box.jpg
 title: iphone 6
 date: 2022-11-23
 tags:

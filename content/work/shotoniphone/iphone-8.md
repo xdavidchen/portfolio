@@ -1,7 +1,7 @@
 ---
 weight: 8
 images:
-- /images/nyc-chimney-3.jpg
+- https://xdavidchen.com/zh-tw/p/%E7%B4%90%E7%B4%84%E5%A4%A7%E7%85%99%E5%9B%AA/chimney-3_hu34a0536e519de1a9b9b47a72ca85c786_4919008_1024x0_resize_q75_box.jpg
 title: iphone 8
 date: 2022-11-23
 tags:

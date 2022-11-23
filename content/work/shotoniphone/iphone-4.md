@@ -1,7 +1,7 @@
 ---
 weight: 4
 images:
-- /images/soho-gun.jpg
+- https://xdavidchen.com/zh-tw/p/%E4%B8%8D%E6%83%B3%E4%BB%98%E5%B0%8F%E8%B2%BB%E5%B0%B1%E5%BF%AB%E8%B7%91/comics_hu57c7863150d92c265e28a047045b7efe_4416882_1024x0_resize_q75_box.jpg
 title: iphone 4
 date: 2022-11-23
 tags:
