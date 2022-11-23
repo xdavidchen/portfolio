@@ -23,7 +23,7 @@ params:
         people: 1
   socials:
     # todo: change these links.
-    - icon: 'fa-solid fa-bolt'
+    - icon: 'fa-regular fa-lightbulb'
       url: https://xdavidchen.com/
       landing: true
     - icon: 'far fa-envelope fa-lg'
