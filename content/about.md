@@ -36,7 +36,7 @@ Below I've included a combination of tools I use to make things happen.
 This portfolio website is built with [Hugo](https://gohugo.io/), based on [Eternity](https://github.com/boratanrikulu/eternity) theme.
 
 ##### Photography
-The photos of [**#shotOniPhone**](http://localhost:1313/tags/shotoniphone/) series were shot on iPhone 11 Pro. Most photos have been lightly edited with [Affinity Photo](https://affinity.serif.com/en-gb/photo/).
+The photos of [**#ShotoniPhone**](http://localhost:1313/tags/shotoniphone/) series were shot on iPhone 11 Pro. Most photos have been lightly edited with [Affinity Photo](https://affinity.serif.com/en-gb/photo/).
 
 ##### Design
 Graphic design work are done on Figma and [Affinity Designer](https://affinity.serif.com/en-us/designer/). Quitting Figma soon after it's acquired by Adobe.
