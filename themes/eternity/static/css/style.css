@@ -196,12 +196,12 @@ a img {
     position: fixed;
     bottom: 25px;
     right: 100px;
-    background-color: rgba(0, 0, 0, 0.75);
+    /* background-color: var(--dark); */
     border-radius: 10%;
     padding: 20px;
     display: flex;
     justify-content: space-around;
-    height: 100px;
+    height:80px;
     align-items: center;
 }
 
@@ -209,8 +209,8 @@ a img {
 .next {
     cursor: pointer;
     color: var(--main-light);
-    font-weight: bold;
-    font-size: 36px;
+    font-weight: normal;
+    font-size: 24px;
     transition: 0.6s ease;
     border-radius: 0 3px 3px 0;
     user-select: none;
@@ -218,13 +218,16 @@ a img {
 }
 
 .next {
-    margin-left: 50px;
+    margin-left: 40px;
     border-radius: 3px 0 0 3px;
 }
 
 .modal-close {
     max-height: 50px;
     max-width: 50px;
+    position: fixed;
+    bottom: 25px;
+    right: 100px;
 }
 
 .modal-close::before,
@@ -368,7 +371,7 @@ section .column img {
 /* Arrow */
 
 .down-arrow {
-    animation: jumpInfinite 3s infinite;
+    animation: jumpInfinite 2s infinite;
     position: fixed;
     top: calc(100vh - 100px);
     left: 60px;
@@ -379,13 +382,13 @@ section .column img {
     position: absolute;
     top: 12px;
     left: -10px;
-    width: 16px;
-    height: 16px;
+    width: 18px;
+    height: 18px;
     border-bottom: 4px solid;
     border-right: 4px solid;
     border-radius: 4px;
     transform: rotateZ(45deg);
-    color: var(--grey);
+    color: var(--main);
 }
 
 .hidden {
