@@ -13,7 +13,7 @@ hideDate: true
         David Chen is a digital creator and a believer of creative freedom.
 	</p>
 	<p>
-		This is <a href="https://xdavidchen.com/about/"><strong>David Chen</strong></a>'s portfolio site. All rights reserved.
+		This is <a href="https://xdavidchen.com/about/" target="_blank"><strong>David Chen</strong></a>'s portfolio site. All rights reserved.
 	</p>
 </div>
 
