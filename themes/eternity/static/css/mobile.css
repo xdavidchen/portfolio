@@ -69,7 +69,7 @@
     }
 
     .down-arrow {
-        opacity: 0;
+        visibility: hidden;
         top: calc(100vh - 150px);
     }
 
