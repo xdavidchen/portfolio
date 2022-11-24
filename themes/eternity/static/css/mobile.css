@@ -69,6 +69,7 @@
     }
 
     .down-arrow {
+        opacity: 0;
         top: calc(100vh - 150px);
     }
 
