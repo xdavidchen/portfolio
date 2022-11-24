@@ -6,7 +6,7 @@ googleAnalytics: '' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
-  subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
+  subtitle: David Chen is a digital creator and a believer of creative freedom. # todo: change default subtitle for your website.
   copyright: #All rights reserved. # todo: set your copyright type.
   author: xdavidchen # todo: set your full name.
   dontShowSource: false # please, do not do this :)
