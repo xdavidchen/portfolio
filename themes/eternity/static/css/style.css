@@ -285,7 +285,9 @@ section .column img {
     color: var(--grey);
 }
 
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 .slide-info {
+    font-family: 'PT Serif', serif;
     margin-bottom: 30px;
     margin-left: 20px;
     font-size: medium;
