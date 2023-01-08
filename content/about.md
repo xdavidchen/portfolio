@@ -1,6 +1,6 @@
 ---
-images:
-- /images/about.png
+# images:
+# - /images/about.png
 title: about
 url: about
 hideTitle: true
@@ -47,4 +47,4 @@ I develop these ideas further in [Zettlr](https://www.zettlr.com/) for English a
 ### Contact
 For personal feedback and business inquiries, please send to [**david@xdavidchen.com**](mailto:david@xdavidchen.com).
 
-You are welcome to [**subscribe to the blog**](https://xdavidchen.com/newsletter/) for new updates.
+You are welcome to [**follow me**](https://xdavidchen.com/follow/) for new updates.
