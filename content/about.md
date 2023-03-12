@@ -6,6 +6,7 @@ url: about
 hideTitle: true
 hideExif: true
 hideDate: true
+draft: true
 ---
 
 <div align="center">

@@ -75,5 +75,5 @@ menu:
       url: /tags/archive/
       weight: 5
     - name: about
-      url: /about/
+      url: https://xdavidchen.com/about/
       weight: 6
