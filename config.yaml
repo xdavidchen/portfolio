@@ -59,12 +59,12 @@ permalinks:
 
 menu:
   main:
+    - name: work
+      url: /work/
+      weight: 1
     - name: "#ShotoniPhone"
       url: "/tags/shotoniphone/"
-      weight: 1 
-    #- name: work
-      #url: /work/
-      #weight: 2
+      weight: 2 
     #- name: people
       #url: /tags/people/
       #weight: 3
@@ -74,6 +74,6 @@ menu:
     - name: archive
       url: /tags/archive/
       weight: 5
-    - name: about
-      url: https://xdavidchen.com/about/
-      weight: 6
+    # - name: about
+      #url: https://xdavidchen.com/about/
+      #weight: 6
