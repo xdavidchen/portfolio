@@ -64,7 +64,7 @@ menu:
       weight: 1
     - name: "#ShotoniPhone"
       url: "/tags/shotoniphone/"
-      weight: 2 
+      weight: 2
     #- name: people
       #url: /tags/people/
       #weight: 3
