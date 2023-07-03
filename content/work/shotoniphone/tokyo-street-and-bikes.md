@@ -1,10 +1,10 @@
 ---
-weight: 18
+weight: 17
 images:
-- /images/skytree-from-sensoji.jpg
+- /images/tokyo-street-and-bikes.jpg
 hideExif: true
 title: 
-date: 2023-06-30
+date: 2023-07-03
 tags:
 - archive # all posts
 - work

@@ -1,5 +1,5 @@
 ---
-weight: 18
+weight: 19
 images:
 - /images/sakura-at-sensoji.jpg
 hideExif: true

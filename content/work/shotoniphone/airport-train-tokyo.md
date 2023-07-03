@@ -1,5 +1,5 @@
 ---
-weight: 18
+weight: 20
 images:
 - /images/airport-train-tokyo.jpg
 hideExif: true

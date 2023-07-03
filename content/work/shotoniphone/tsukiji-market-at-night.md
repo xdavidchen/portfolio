@@ -1,10 +1,10 @@
 ---
-weight: 18
+weight: 15
 images:
-- /images/skytree-from-sensoji.jpg
+- /images/tsukiji-market-at-night.jpg
 hideExif: true
 title: 
-date: 2023-06-30
+date: 2023-07-03
 tags:
 - archive # all posts
 - work
