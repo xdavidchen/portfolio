@@ -1,7 +1,7 @@
 ---
 weight: 13
 images:
-- /images/oragne-tube.jpg
+- /images/nyc/oragne-tube.jpg
 hideExif: true
 title: 
 date: 2022-11-23

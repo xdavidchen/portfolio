@@ -1,7 +1,7 @@
 ---
 weight: 15
 images:
-- /images/street-in-copenhagen.jpg
+- /images/copenhagen/street-in-copenhagen.jpg
 title:
 date: 2022-11-23
 hideExif: true

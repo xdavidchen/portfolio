@@ -63,8 +63,14 @@ menu:
       url: /work/
       weight: 1
     - name: "#ShotoniPhone"
-      url: "/tags/shotoniphone/"
+      url: "/tags/shotoniphone"
       weight: 2
+    - name: "Sony"
+      url: "/tags/sony"
+      weight: 3
+    - name: "Fuji"
+      url: "/tags/fuji-film"
+      weight: 4
     #- name: people
       #url: /tags/people/
       #weight: 3

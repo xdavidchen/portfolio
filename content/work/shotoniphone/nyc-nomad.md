@@ -1,7 +1,7 @@
 ---
 weight: 13
 images:
-- /images/nyc-nomad.jpg
+- /images/nyc/nyc-nomad.jpg
 hideExif: true
 title:
 date: 2022-11-23

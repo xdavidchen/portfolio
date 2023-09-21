@@ -1,7 +1,7 @@
 ---
 weight: 18
 images:
-- /images/skytree-from-sensoji.jpg
+- /images/tokyo/skytree-from-sensoji.jpg
 hideExif: true
 title: 
 date: 2023-06-30

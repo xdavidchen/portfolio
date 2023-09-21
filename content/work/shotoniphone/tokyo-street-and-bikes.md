@@ -1,7 +1,7 @@
 ---
 weight: 17
 images:
-- /images/tokyo-street-and-bikes.jpg
+- /images/tokyo/tokyo-street-and-bikes.jpg
 hideExif: true
 title: 
 date: 2023-07-03

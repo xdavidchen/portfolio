@@ -1,7 +1,7 @@
 ---
 weight: 16
 images:
-- /images/tokyo-vendor-machine.jpg
+- /images/tokyo/tokyo-vendor-machine.jpg
 hideExif: true
 title: 
 date: 2023-06-30

@@ -1,7 +1,7 @@
 ---
 weight: 15
 images:
-- /images/tsukiji-market-at-night.jpg
+- /images/tokyo/tsukiji-market-at-night.jpg
 hideExif: true
 title: 
 date: 2023-07-03

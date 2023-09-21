@@ -1,7 +1,7 @@
 ---
 weight: 12
 images:
-- /images/manhattan-building.jpg
+- /images//nyc/manhattan-building.jpg
 hideExif: true
 title:
 date: 2022-11-23

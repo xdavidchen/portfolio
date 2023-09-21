@@ -1,7 +1,7 @@
 ---
 weight: 19
 images:
-- /images/sakura-at-sensoji.jpg
+- /images/tokyo/sakura-at-sensoji.jpg
 hideExif: true
 title: 
 date: 2023-06-30
