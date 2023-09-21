@@ -1,10 +1,10 @@
 ---
-weight: 2
+weight: 22
 images:
-- /images/vienna/schoenbrunn-2.webp
-hideExif: false
+- /images/vienna/schoenbrunn-2.jpg
+hideExif: true
 title: 
-date: 2023-09-22
+date: 2023-09-21
 tags:
 - archive # all posts
 - work
