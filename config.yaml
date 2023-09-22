@@ -26,6 +26,9 @@ params:
     - icon: 'fa-regular fa-lightbulb'
       url: https://xdavidchen.com/
       landing: true
+    - icon: 'fab fa-youtube fa-lg'
+      url: 'https://www.youtube.com/@xdavidchen'
+      landing: true
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:david@xdavidchen.com'
       landing: true
