@@ -102,6 +102,7 @@ nav.navbar {
 
 .menu {
     max-width: 600px;
+    font-family: -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .margin-bottom-50 {
@@ -275,6 +276,7 @@ section .column img {
 
 .slide-tags {
     padding-left: 3px;
+    font-family: -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .slide-tag {
@@ -283,10 +285,11 @@ section .column img {
 
 .grey {
     color: var(--grey);
+    font-family: -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .slide-info {
-    font-family: "Helvetica Neue", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     margin-bottom: 30px;
     margin-left: 20px;
     font-size: medium;
